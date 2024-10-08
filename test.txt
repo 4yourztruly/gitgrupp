@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 ᓚᘏᗢ
+<<<<<<< HEAD
 =======
+=======
+franklin was here
+>>>>>>> 4fa88ec11d224676f46bdf339cf6c2b7c17e53a0
 
 hahahahah
 
