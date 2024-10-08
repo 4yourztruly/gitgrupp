@@ -2,11 +2,17 @@
 <<<<<<< HEAD
 =======
 =======
+här
 franklin was here
+hittar
 >>>>>>> 4fa88ec11d224676f46bdf339cf6c2b7c17e53a0
+vi
 
+en
 hahahahah
 
+pull
 testing testing
 
+request
 >>>>>>> c0d5beb9492818f14d7e2e7df4f8139b72e55d23
